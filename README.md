@@ -193,8 +193,8 @@ df5=pd.DataFrame(sc3.fit_transform(df1),columns=['Passenger','Survived','Pclass'
 df5
 ```
 
-# OUTPUT
-# Data.csv
+OUTPUT
+# Data.csv:
 ## Initial Dataset:
 ![output](ss1.png)
 ## Binary Encoding:
